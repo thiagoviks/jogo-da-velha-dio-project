@@ -1,6 +1,7 @@
 # Jogo da Velha em JavaScript
 
 Projeto produzido em um bootcamp na plataforma da [Digital Innovation One](https://digitalinnovation.one).
+![screenshot](screenshot.png?raw=true 'screenshot')
 
 # Descrição do projeto
 
