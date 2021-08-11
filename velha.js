@@ -98,9 +98,9 @@ function mudarVencedor(quadrado) {
 }
 
 function mudaCorQuadrado(quadrado1, quadrado2, quadrado3) {
-  quadrado1.style.background = '#0f0';
-  quadrado2.style.background = '#0f0';
-  quadrado3.style.background = '#0f0';
+  quadrado1.style.background = '#ff9b10';
+  quadrado2.style.background = '#ff9b10';
+  quadrado3.style.background = '#ff9b10';
 }
 
 function checaSequencia(quadrado1, quadrado2, quadrado3) {
@@ -123,8 +123,8 @@ function reiniciar() {
 
   for (var i = 1; i <= 9; i++) {
     var quadrado = document.getElementById(i);
-    quadrado.style.background = '#eee';
-    quadrado.style.color = '#eee';
+    quadrado.style.background = '#FF10EC';
+    quadrado.style.color = '#FF10EC';
     quadrado.innerHTML = '-';
   }
 
